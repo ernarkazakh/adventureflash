@@ -1,0 +1,48 @@
+.dash{
+	display: none;
+}
+.guest{
+	text-align: left;
+}
+#card{
+    margin-top: 250px; /*set to a negative number 1/2 of your height*/
+    margin-left: -100px; /*set to a negative number 1/2 of your width*/
+    color:#336699;
+}
+.front{
+	text-align: center;
+	position: relative;
+	margin-top: -50px;
+	margin-left:50px;
+	font-family: verdana;
+	font-size:45px;
+}
+.back{
+	text-align: center;
+	margin-top:150px;
+	font-family:verdana;
+}
+body { 
+	background-color: white;
+}
+.quest{
+	bottom:-70px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	position: relative;
+
+}
+#forma{
+	bottom: 300px;
+	left:450px;
+	position: absolute;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+
+}
+.score{
+	bottom: -100px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	position: relative;
+}
