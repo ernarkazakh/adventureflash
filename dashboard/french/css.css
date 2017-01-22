@@ -1,0 +1,70 @@
+.dash{
+	text-align: center;
+	display: none;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size:48px;
+}
+.guest{
+	text-align: left;
+}
+#card{
+    margin-top: 250px;
+    color:#336699;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    position: relative;
+
+}
+.title{
+	text-align: center;
+	margin-top: 25px; 
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size:60px;
+}
+.front{
+	text-align: center;
+	position: relative;
+	margin-top: 50px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size:60px;
+}
+.back{
+	text-align: center;
+	margin-top:150px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	
+	
+}
+body { 
+	background-color: white;
+	background-image: url("Background.jpg");
+}
+.quest{
+	bottom:-70px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	position: relative;
+	font-weight: 300;
+	font-size:24px;
+
+}
+.forma{
+	bottom: 150px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	position: relative;
+	font-weight: 300;
+	font-size:36px;
+}
+.score{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	position: relative;
+	font-weight: 300;
+	font-size:24px;
+}
