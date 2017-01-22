@@ -23,11 +23,11 @@ function shuffle(array) {
     return array;
 }
 var questions = [
-    //["How do you say \"doctor\" in Russian?", "врач"],
-    //["How do you say \"goodbye\" in Russian?", 'до свидания'],
-    //["How do you say \"human\" in Russian?", "человек"],
-    //["How do you say \"shovel\" in Russian?", "лопата"],
-    //["How do you say \"hi\" in Russian?", "привет"]
+    ["How do you say \"doctor\" in Russian?", "врач"],
+    ["How do you say \"goodbye\" in Russian?", 'до свидания'],
+    ["How do you say \"human\" in Russian?", "человек"],
+    ["How do you say \"shovel\" in Russian?", "лопата"],
+    ["How do you say \"hi\" in Russian?", "привет"]
 
 ];
 shuffle(questions);
