@@ -1,3 +1,5 @@
-Our project that we created in our free, spare time.
+AdventureFlash is a Flash Card game that reinforces learning using voice.
 
-Hope you will enjoy 
+A demo of AdventureFlash can be found at http://AdventureFlash.com
+
+Built during UofTHacksIV
